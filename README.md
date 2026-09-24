@@ -152,4 +152,15 @@ The page includes:
 - Backlog by Department
 - Backlog Rate by Department
 - Team Completion Rate by Priority
-- Department and Year filtering
+
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+### Operational Analysis
+![Operational Analysis](images/operational-analysis.png)
+
+### Detailed Analysis
+![Detailed Analysis](images/detailed-analysis.png)
+
