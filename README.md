@@ -156,7 +156,7 @@ The page includes:
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](images/executive-overview.png)
+<img src="./images/executive-overview.png" alt="Executive Overview" width="100%">
 
 ### Operational Analysis
 ![Operational Analysis](images/operational-analysis.png)
